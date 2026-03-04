@@ -242,4 +242,7 @@ span{
     transform-origin: bottom left;
   }
   
- 
+ .detel,
+.detel a {
+  position: static !important;
+}
