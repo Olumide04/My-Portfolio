@@ -381,8 +381,10 @@
 @media (max-width: 500px) {
   /*HOME DA PÁGINA*/
   .home {
-    height: 100vh;
-  }
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   .home .container {
     display: -webkit-box;
     display: -ms-flexbox;
