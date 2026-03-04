@@ -419,12 +419,10 @@
   width: 100%;
   padding: 0 20px;
 }
-  /* .detel a{
-    width: 200px;
-    position: absolute;
-    top: 200px;
-    right: 130px;
-  } */
+.detel a {
+    margin-top: 20px;
+    display: inline-block;
+  }
   /*SOBRE DA PÁGINA  */
   .about {
     width: 100%;
