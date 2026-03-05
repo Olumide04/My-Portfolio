@@ -61,7 +61,7 @@ a {
 .menu {
     display: none;
 }
-.home {
+/* .home {
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -72,33 +72,10 @@ a {
   width: 100%;
   max-width: 1100px;
   padding: 0 20px;
-}
+} */
 
-.detel {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
 
-.detel h1 {
-  font-size: 40px;
-  margin-bottom: 20px;
-}
-
-.detel p {
-  margin-bottom: 20px;
-}
-
-.detel a {
-  display: inline-block;
-  padding: 10px 25px;
-  background: black;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-}
-/* .detel{
+.detel{
     display: flex;
   flex-direction: column;
   align-items: center;
@@ -125,7 +102,7 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
-} */
+}
 @media (max-width:760px){
     .header ul{
         position: absolute;
